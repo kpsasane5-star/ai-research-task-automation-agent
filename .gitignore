@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+data/chroma_db/
+outputs/*.pdf
+outputs/*.png
+outputs/*.md
+!outputs/.gitkeep
+.pytest_cache/
+.vscode/
+.idea/
